@@ -41,7 +41,14 @@
         "images"
       ],
       "plugin": "upload",
-      "required": false
+      "required": false,
+      "pluginOptions": {}
+    },
+    "url_video": {
+      "type": "string"
+    },
+    "url_deploy": {
+      "type": "string"
     }
   }
 }
